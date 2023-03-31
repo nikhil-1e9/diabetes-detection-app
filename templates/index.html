@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title> Diabetes Prediction! </title>
+   <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  </head>
+
+  <body>
+    <!--<div class="grid">-->
+
+      <!--<div class="box">-->
+
+        <p>Are u on the verge of Diabetes? Let's find out</p>
+
+        <form action="{{ url_for('predict')}}" method="post">
+          <label for="age">Age</label>
+          <select id="age" name="age">
+              <option value="0">40-49</option>
+              <option value="1">50-59</option>
+              <option value="2">&gt 60</option>
+              <option value="3">&lt 40</option>
+          </select>
+          <br>
+          <label for="gender">Gender</label>
+          <select id="gender" name="gender">
+              <option value="0">Female</option>
+              <option value="1">Male</option>
+          </select>
+          <br>
+          <label for="family_diabetes">Family Diabetes</label>
+          <select id="family_diabetes" name="family_diabetes">
+              <option value="0">No</option>
+              <option value="1">Yes</option>
+          </select>
+          <br>
+          <label for="physical_activity">Physical Activity</label>
+          <select id="physical_activity" name="physical_activity">
+              <option value="0">30-60 min</option>
+              <option value="1">&lt 30 min</option>
+              <option value="2">&gt 60 min</option>
+              <option value="3">None</option>
+          </select>
+          <br>
+          <label for="bmi">BMI</label>
+          <input type="text" id="bmi" name="bmi">
+          <br>
+          <label for="smoking">Smoking</label>
+          <select id="smoking" name="smoking">
+              <option value="0">No</option>
+              <option value="1">Yes</option>
+          </select>
+          <br>
+          <label for="alcohol">Alcohol</label>
+          <select id="alcohol" name="alcohol">
+              <option value="0">No</option>
+              <option value="1">Yes</option>
+          </select>
+          <br>
+          <label for="sleep">Sleep</label>
+          <input type="text" id="sleep" name="sleep">
+          <br>
+          <label for="regular_medicine">Regular Medicine</label>
+          <select id="regular_medicine" name="regular_medicine">
+              <option value="0">No</option>
+              <option value="1">Yes</option>
+          </select>
+          <br>
+          <label for="junk_food">JunkFood</label>
+          <select id="junk_food" name="junk_food">
+              <option value="0">Occasionally</option>
+              <option value="1">Often</option>
+              <option value="2">Very often</option>
+          </select>
+          <br>
+          <label for="stress">Stress</label>
+          <select id="stress" name="stress">
+              <option value="0">Not at all</option>
+              <option value="1">Sometimes</option>
+              <option value="2">Very often</option>
+          </select>
+          <br>
+          <label for="bplevel">Blood Pressure</label>
+          <select id="bplevel" name="bplevel">
+              <option value="0">High</option>
+              <option value="1">Low</option>
+              <option value="2">Normal</option>
+          </select>
+          <br>
+          <label for="pregnancies">Pregnancies</label>
+          <input type="text" id="pregnancies" name="pregnancies">
+          <br>
+          <label for="urinationfreq">Urination Frequency</label>
+          <select id="urinationfreq" name="urinationfreq">
+              <option value="0">Not much</option>
+              <option value="1">Quite often</option>
+          </select>
+          <br>
+          <input type="submit" value="Submit">
+        </form>
+
+        <p>{{ prediction_text }}</p>
+
+      </div>
+
+    </div>
+
+  </body>
+</html>
