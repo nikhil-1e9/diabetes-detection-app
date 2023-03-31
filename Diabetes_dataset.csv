@@ -1,0 +1,953 @@
+Age,Gender,Family_Diabetes,PhysicalActivity,BMI,Smoking,Alcohol,Sleep,RegularMedicine,JunkFood,Stress,BPLevel,Pregnancies,UrinationFreq,Diabetic
+50-59,Male,no,> 60 min,39.0,no,no,8,no,occasionally,sometimes,high,0.0,not much,no
+50-59,Male,no,< 30 min,28.0,no,no,8,yes,very often,sometimes,normal,0.0,not much,no
+40-49,Male,no,> 60 min,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,> 60 min,23.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,< 30 min,27.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,none,21.0,no,yes,10,no,occasionally,sometimes,high,0.0,not much,yes
+less than 40,Male,no,> 60 min,24.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,20.0,no,no,7,yes,occasionally,sometimes,low,0.0,not much,no
+40-49,Male,yes,> 60 min,23.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,20.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,none,20.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+40-49,Male,no,< 30 min,26.0,yes,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,6,no,occasionally,sometimes,normal,1.0,not much,no
+less than 40,Female,no,> 60 min,22.0,no,no,8,no,occasionally,very often,normal,2.0,not much,no
+less than 40,Male,no,> 60 min,15.0,no,no,7,no,occasionally,very often,normal,0.0,not much,no
+40-49,Female,yes,none,34.0,no,no,6,no,occasionally,sometimes,normal,3.0,not much,no
+50-59,Male,yes,30-60 min,22.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,24.0,no,no,6,no,occasionally,sometimes,normal,2.0,quite often,no
+40-49,Male,yes,> 60 min,24.0,no,no,11,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,22.0,no,no,8,no,often,not at all,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,30.0,no,yes,9,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,24.0,no,no,4,yes,often,very often,normal,3.0,quite often,yes
+less than 40,Female,yes,> 60 min,24.0,no,no,4,yes,often,very often,normal,3.0,not much,yes
+less than 40,Female,no,> 60 min,20.0,no,no,9,no,occasionally,sometimes,normal,2.0,not much,no
+less than 40,Male,yes,30-60 min,24.0,yes,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,21.0,no,no,7,no,often,not at all,normal,0.0,not much,no
+less than 40,Female,no,> 60 min,20.0,no,no,6,no,very often,not at all,normal,0.0,not much,no
+50-59,Male,no,> 60 min,27.0,no,no,7,no,very often,not at all,normal,0.0,not much,no
+40-49,Male,yes,none,29.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+60 or older,Female,no,none,18.0,no,no,6,yes,occasionally,sometimes,normal,3.0,quite often,yes
+less than 40,Female,no,> 60 min,32.0,no,no,8,yes,occasionally,sometimes,normal,3.0,not much,no
+40-49,Female,no,> 60 min,21.0,no,no,7,no,occasionally,sometimes,normal,3.0,quite often,no
+60 or older,Male,no,none,26.0,no,no,4,yes,occasionally,not at all,high,0.0,not much,yes
+60 or older,Female,yes,30-60 min,31.0,no,no,8,yes,occasionally,not at all,normal,3.0,not much,no
+60 or older,Female,yes,none,26.0,no,no,7,no,occasionally,sometimes,normal,3.0,not much,no
+60 or older,Male,yes,none,21.0,no,no,8,yes,occasionally,not at all,normal,0.0,not much,yes
+40-49,Female,yes,30-60 min,28.0,no,no,8,yes,occasionally,very often,normal,2.0,not much,yes
+50-59,Male,no,> 60 min,24.0,no,no,8,yes,occasionally,sometimes,high,0.0,not much,yes
+40-49,Male,no,30-60 min,27.0,no,no,8,yes,occasionally,not at all,high,0.0,not much,yes
+40-49,Male,no,30-60 min,21.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Male,no,none,27.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+60 or older,Male,no,none,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,36.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,21.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,22.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,21.0,no,no,6,no,occasionally,sometimes,low,0.0,not much,no
+50-59,Male,yes,> 60 min,38.0,no,yes,8,yes,occasionally,very often,normal,0.0,not much,yes
+50-59,Female,yes,30-60 min,40.0,no,no,9,yes,very often,sometimes,high,2.0,not much,yes
+60 or older,Male,yes,none,35.0,no,no,5,no,occasionally,sometimes,high,0.0,quite often,yes
+60 or older,Female,yes,none,24.0,no,no,4,yes,occasionally,very often,high,3.0,quite often,yes
+60 or older,Male,no,none,18.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,30-60 min,23.0,no,no,7,no,often,sometimes,normal,2.0,not much,no
+60 or older,Male,no,< 30 min,19.0,no,yes,6,yes,often,sometimes,high,1.0,not much,no
+less than 40,Male,no,30-60 min,26.0,yes,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,30.0,yes,yes,5,yes,often,not at all,normal,1.0,not much,no
+60 or older,Female,no,< 30 min,27.0,no,no,6,yes,occasionally,very often,high,0.0,quite often,yes
+less than 40,Male,no,none,18.0,yes,yes,7,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,29.0,yes,yes,6,yes,often,very often,normal,0.0,not much,no
+50-59,Male,no,< 30 min,19.0,no,yes,6,yes,occasionally,very often,high,0.0,not much,no
+50-59,Female,yes,none,21.0,no,no,8,yes,occasionally,very often,normal,0.0,quite often,yes
+less than 40,Male,no,none,24.0,no,no,10,no,occasionally,not at all,normal,0.0,not much,no
+60 or older,Male,no,none,31.0,no,no,6,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,22.0,no,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,yes,none,19.0,no,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,> 60 min,27.0,no,no,6,no,occasionally,very often,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,26.0,no,no,10,yes,occasionally,very often,high,0.0,quite often,yes
+50-59,Female,yes,none,21.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Male,yes,> 60 min,26.0,no,no,6,yes,occasionally,not at all,normal,0.0,not much,yes
+50-59,Male,yes,> 60 min,23.0,yes,yes,5,yes,occasionally,very often,normal,0.0,not much,yes
+less than 40,Male,yes,> 60 min,26.0,yes,yes,5,yes,often,not at all,high,0.0,not much,yes
+60 or older,Female,yes,< 30 min,18.0,no,no,4,yes,occasionally,sometimes,high,0.0,not much,yes
+60 or older,Female,yes,< 30 min,19.0,no,no,9,yes,occasionally,very often,high,4.0,quite often,yes
+50-59,Male,yes,none,24.0,no,yes,7,no,occasionally,very often,normal,0.0,not much,no
+60 or older,Female,yes,< 30 min,33.0,no,no,6,yes,occasionally,sometimes,high,2.0,not much,yes
+50-59,Male,yes,none,31.0,no,yes,7,yes,occasionally,very often,high,0.0,not much,yes
+40-49,Female,no,none,23.0,no,no,7,no,often,very often,normal,1.0,not much,no
+50-59,Male,yes,< 30 min,23.0,no,no,7,yes,occasionally,sometimes,normal,0.0,not much,yes
+50-59,Female,no,none,20.0,no,no,7,yes,occasionally,sometimes,high,1.0,not much,yes
+50-59,Male,no,30-60 min,28.0,no,yes,7,no,occasionally,sometimes,high,0.0,not much,no
+60 or older,Male,yes,< 30 min,26.0,no,yes,6,yes,occasionally,not at all,high,0.0,not much,no
+less than 40,Male,no,> 60 min,24.0,no,no,7,no,often,sometimes,normal,0.0,not much,no
+60 or older,Male,no,30-60 min,24.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,yes
+less than 40,Female,no,< 30 min,17.0,no,no,4,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,28.0,yes,yes,4,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,23.0,yes,no,6,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,19.0,no,no,7,yes,occasionally,sometimes,normal,1.0,not much,no
+60 or older,Male,no,< 30 min,15.0,no,no,4,yes,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,no,< 30 min,22.0,no,no,6,no,often,not at all,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,23.0,no,no,7,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,no,> 60 min,18.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,21.0,no,no,5,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,21.0,no,no,7,yes,often,very often,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,21.0,no,no,9,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,22.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,25.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,< 30 min,20.0,yes,yes,6,no,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,no,30-60 min,24.0,no,no,8,no,often,not at all,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Male,no,< 30 min,26.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,< 30 min,27.0,no,no,8,no,occasionally,sometimes,low,1.0,not much,no
+less than 40,Female,no,> 60 min,26.0,no,no,8,no,occasionally,sometimes,low,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,no,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,8,no,occasionally,not at all,normal,3.0,not much,yes
+40-49,Female,no,< 30 min,22.0,no,no,8,no,occasionally,not at all,normal,3.0,not much,no
+60 or older,Male,no,30-60 min,23.0,no,yes,7,yes,occasionally,very often,high,0.0,quite often,yes
+60 or older,Male,no,< 30 min,28.0,no,no,8,yes,occasionally,not at all,normal,0.0,quite often,yes
+60 or older,Male,yes,< 30 min,32.0,no,no,8,no,often,very often,high,0.0,not much,yes
+40-49,Female,yes,< 30 min,33.0,no,no,6,no,very often,very often,normal,2.0,not much,yes
+less than 40,Female,yes,> 60 min,24.0,no,no,8,no,often,sometimes,normal,0.0,not much,no
+50-59,Female,yes,< 30 min,28.0,no,no,7,yes,occasionally,very often,high,0.0,quite often,yes
+50-59,Male,no,< 30 min,30.0,no,no,7,no,often,very often,normal,0.0,not much,no
+50-59,Male,yes,> 60 min,30.0,yes,yes,7,yes,often,very often,high,0.0,quite often,yes
+less than 40,Female,yes,30-60 min,,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,27.0,no,no,9,no,very often,very often,high,0.0,not much,no
+less than 40,Male,no,> 60 min,22.0,yes,no,9,no,very often,very often,high,0.0,quite often,no
+less than 40,Female,no,30-60 min,,no,no,5,no,often,very often,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,18.0,no,no,7,yes,often,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,22.0,no,no,7,no,often,very often,normal,0.0,not much,no
+60 or older,Male,yes,30-60 min,21.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+60 or older,Female,no,> 60 min,26.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+50-59,Female,yes,none,,no,no,6,yes,occasionally,very often,high,2.0,not much,yes
+less than 40,Male,no,30-60 min,,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Female,no,< 30 min,31.0,no,no,7,yes,occasionally,very often,high,0.0,quite often,no
+50-59,Male,no,< 30 min,33.0,no,yes,5,yes,occasionally,sometimes,high,0.0,not much,no
+less than 40,Female,no,> 60 min,30.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,23.0,no,yes,6,no,often,very often,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,29.0,no,no,6,no,often,sometimes,normal,2.0,quite often,no
+40-49,Female,yes,30-60 min,17.0,no,no,7,no,very often,sometimes,normal,3.0,not much,no
+50-59,Female,yes,< 30 min,24.0,no,no,8,yes,occasionally,sometimes,normal,2.0,not much,no
+60 or older,Male,yes,30-60 min,26.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,quite often,yes
+less than 40,Female,yes,> 60 min,27.0,no,yes,8,no,very often,very often,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,21.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Female,yes,< 30 min,26.0,no,no,7,no,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,yes,> 60 min,20.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,22.0,no,no,6,no,occasionally,sometimes,low,0.0,not much,no
+less than 40,Male,yes,30-60 min,21.0,yes,no,8,no,occasionally,very often,normal,,not much,no
+less than 40,Female,yes,> 60 min,26.0,no,no,7,no,often,sometimes,low,,not much,no
+less than 40,Female,yes,none,21.0,no,yes,9,no,occasionally,sometimes,normal,,not much,no
+less than 40,Female,yes,none,21.0,no,yes,8,no,occasionally,sometimes,normal,,not much,no
+less than 40,Female,yes,30-60 min,24.0,no,no,8,yes,often,sometimes,normal,,quite often,no
+less than 40,Male,no,30-60 min,24.0,yes,yes,7,no,often,sometimes,normal,,not much,no
+less than 40,Male,no,< 30 min,26.0,no,yes,6,no,occasionally,very often,normal,,not much,no
+50-59,Male,yes,< 30 min,32.0,no,no,8,yes,occasionally,sometimes,normal,,not much,no
+40-49,Male,yes,30-60 min,34.0,no,no,7,no,often,sometimes,normal,,quite often,no
+less than 40,Male,no,30-60 min,30.0,no,no,7,no,occasionally,sometimes,normal,,not much,no
+50-59,Female,no,30-60 min,42.0,no,no,7,yes,occasionally,very often,high,,not much,no
+less than 40,Male,yes,< 30 min,33.0,no,no,8,no,occasionally,sometimes,normal,,not much,no
+less than 40,Male,no,> 60 min,23.0,no,no,7,no,occasionally,sometimes,normal,,not much,no
+50-59,Male,yes,30-60 min,27.0,no,yes,7,no,occasionally,sometimes,high,,not much,no
+40-49,Female,no,> 60 min,25.0,no,no,5,no,occasionally,sometimes,normal,,not much,no
+less than 40,Female,no,30-60 min,28.0,no,no,6,no,occasionally,sometimes,normal,,not much,no
+40-49,Female,no,< 30 min,28.0,no,no,6,no,occasionally,sometimes,normal,,not much,no
+40-49,Female,no,< 30 min,33.0,no,no,7,no,occasionally,sometimes,normal,,not much,no
+50-59,Female,no,< 30 min,33.0,no,no,7,yes,occasionally,sometimes,normal,,quite often,no
+50-59,Female,no,30-60 min,28.0,no,no,7,no,occasionally,sometimes,normal,,quite often,no
+less than 40,Female,no,< 30 min,28.0,no,no,6,no,occasionally,not at all,normal,,quite often,no
+40-49,Female,yes,30-60 min,36.0,no,no,7,yes,occasionally,sometimes,normal,,quite often,no
+less than 40,Female,no,30-60 min,33.0,no,no,8,no,occasionally,sometimes,normal,,quite often,no
+less than 40,Female,no,< 30 min,28.0,no,no,6,no,occasionally,sometimes,normal,,not much,no
+40-49,Male,yes,30-60 min,28.0,no,no,7,no,occasionally,sometimes,normal,,quite often,no
+less than 40,Male,no,30-60 min,33.0,no,no,8,no,occasionally,sometimes,normal,,not much,no
+40-49,Female,yes,< 30 min,38.0,no,no,7,no,occasionally,not at all,normal,,quite often,no
+50-59,Female,no,30-60 min,33.0,no,no,6,yes,occasionally,sometimes,high,,quite often,no
+40-49,Male,no,< 30 min,38.0,no,no,5,yes,occasionally,sometimes,normal,,quite often,no
+40-49,Female,yes,< 30 min,36.0,no,no,7,no,occasionally,sometimes,normal,,quite often,no
+less than 40,Female,yes,< 30 min,33.0,no,no,6,no,occasionally,very often,normal,,quite often,no
+less than 40,Female,no,30-60 min,33.0,no,no,7,no,often,not at all,normal,,quite often,no
+40-49,Female,no,< 30 min,38.0,no,no,6,no,occasionally,sometimes,normal,,quite often,no
+40-49,Female,yes,30-60 min,36.0,no,no,7,yes,occasionally,sometimes,normal,,quite often,no
+less than 40,Female,no,< 30 min,33.0,no,no,7,no,occasionally,sometimes,normal,,quite often,no
+50-59,Male,no,< 30 min,38.0,no,no,6,yes,occasionally,sometimes,normal,,quite often,no
+60 or older,Female,yes,< 30 min,38.0,no,no,5,yes,occasionally,very often,high,,quite often,yes
+60 or older,Male,no,< 30 min,33.0,no,no,6,yes,occasionally,very often,high,,quite often,yes
+less than 40,Female,no,< 30 min,33.0,no,no,8,no,occasionally,sometimes,normal,,quite often,no
+less than 40,Female,yes,30-60 min,38.0,no,no,8,yes,occasionally,sometimes,normal,,quite often,no
+less than 40,Male,yes,< 30 min,32.0,no,no,6,no,often,sometimes,normal,,quite often,no
+less than 40,Male,no,30-60 min,33.0,no,no,8,no,often,sometimes,normal,,quite often,no
+40-49,Female,yes,none,22.0,no,no,10,yes,occasionally,very often,normal,2.0,not much,no
+40-49,Male,yes,none,24.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Female,yes,30-60 min,23.0,no,no,9,yes,occasionally,very often,high,3.0,quite often,yes
+60 or older,Female,yes,< 30 min,27.0,no,no,7,yes,occasionally,sometimes,high,3.0,quite often,yes
+60 or older,Male,yes,30-60 min,24.0,no,yes,7,yes,occasionally,very often,high,0.0,not much,yes
+less than 40,Female,yes,none,18.0,no,no,8,yes,often,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,none,20.0,no,no,9,no,often,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,19.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,28.0,yes,yes,7,no,often,not at all,normal,0.0,not much,yes
+less than 40,Female,no,< 30 min,19.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,25.0,yes,yes,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,25.0,no,yes,7,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,yes,yes,10,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,27.0,no,no,7,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,yes,30-60 min,19.0,yes,yes,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,none,25.0,yes,yes,10,no,often,very often,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,28.0,no,no,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,> 60 min,25.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,< 30 min,21.0,no,no,8,no,often,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,23.0,no,no,9,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,28.0,yes,yes,8,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,20.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,18.0,no,no,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,> 60 min,25.0,no,no,6,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,28.0,no,no,6,no,occasionally,not at all,high,0.0,quite often,no
+less than 40,Male,yes,< 30 min,27.0,yes,yes,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,20.0,no,no,8,no,very often,not at all,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,20.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,> 60 min,17.0,no,no,8,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,26.0,no,no,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,21.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,< 30 min,29.0,no,no,8,no,often,sometimes,low,0.0,not much,no
+less than 40,Male,yes,30-60 min,29.0,no,yes,6,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,24.0,yes,yes,8,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,yes,< 30 min,23.0,no,no,5,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,23.0,no,no,5,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,29.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,none,19.0,no,no,9,no,very often,sometimes,normal,2.0,not much,no
+less than 40,Male,no,< 30 min,23.0,yes,yes,8,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,17.0,no,no,6,no,often,sometimes,normal,0.0,not much,no
+50-59,Female,yes,> 60 min,23.0,no,no,6,no,occasionally,sometimes,high,2.0,not much,no
+40-49,Male,yes,< 30 min,24.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,< 30 min,25.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,yes,< 30 min,35.0,no,no,8,yes,often,very often,normal,2.0,quite often,yes
+40-49,Female,yes,30-60 min,33.0,no,no,7,yes,occasionally,sometimes,high,0.0,quite often,yes
+40-49,Female,yes,> 60 min,34.0,no,no,6,yes,very often,very often,normal,0.0,quite often,yes
+50-59,Male,yes,30-60 min,36.0,yes,no,6,yes,often,very often,high,0.0,not much,yes
+60 or older,Male,no,< 30 min,30.0,no,yes,6,yes,often,very often,high,0.0,not much,yes
+less than 40,Male,yes,> 60 min,28.0,yes,yes,5,yes,very often,very often,normal,0.0,quite often,yes
+40-49,Male,yes,< 30 min,35.0,yes,yes,5,yes,very often,sometimes,high,0.0,not much,yes
+40-49,Male,no,> 60 min,24.0,no,yes,6,no,occasionally,not at all,normal,0.0,not much,no
+50-59,Female,no,> 60 min,22.0,no,no,8,yes,occasionally,very often,normal,3.0,not much,yes
+less than 40,Male,no,< 30 min,30.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Male,yes,> 60 min,22.0,no,no,7,yes,occasionally,sometimes,high,0.0,not much,yes
+less than 40,Male,yes,30-60 min,22.0,no,no,8,no,often,sometimes,normal,0.0,not much,yes
+60 or older,Male,yes,30-60 min,27.0,no,no,6,yes,occasionally,sometimes,high,0.0,quite often,yes
+60 or older,Male,no,none,23.0,no,no,6,yes,occasionally,sometimes,high,0.0,not much,no
+60 or older,Male,no,< 30 min,27.0,no,yes,6,yes,occasionally,very often,high,0.0,not much,no
+60 or older,Female,yes,> 60 min,29.0,no,no,7,yes,occasionally,sometimes,high,2.0,quite often,yes
+50-59,Male,no,> 60 min,39.0,no,no,8,no,occasionally,sometimes,high,0.0,not much,no
+50-59,Male,yes,< 30 min,28.0,no,no,8,yes,very often,sometimes,normal,0.0,not much,yes
+40-49,Male,no,> 60 min,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,> 60 min,23.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,27.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Male,yes,none,21.0,no,yes,10,no,occasionally,sometimes,high,0.0,not much,yes
+less than 40,Male,no,> 60 min,24.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,20.0,no,no,7,yes,occasionally,sometimes,low,0.0,not much,no
+40-49,Male,yes,> 60 min,23.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,yes
+less than 40,Male,no,30-60 min,20.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,none,20.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+40-49,Male,no,< 30 min,26.0,yes,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,6,no,occasionally,sometimes,normal,1.0,not much,no
+less than 40,Female,no,> 60 min,22.0,no,no,8,no,occasionally,very often,normal,2.0,not much,no
+less than 40,Male,no,> 60 min,15.0,no,no,7,no,occasionally,very often,normal,0.0,not much,no
+40-49,Female,yes,none,34.0,no,no,6,no,occasionally,sometimes,normal,3.0,not much,no
+50-59,Male,yes,30-60 min,22.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,yes
+less than 40,Female,no,30-60 min,24.0,no,no,6,no,occasionally,sometimes,normal,2.0,quite often,no
+40-49,Male,yes,> 60 min,24.0,no,no,11,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,22.0,no,no,8,no,often,not at all,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,30.0,no,yes,9,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,24.0,no,no,4,yes,often,very often,normal,3.0,quite often,yes
+less than 40,Female,yes,> 60 min,24.0,no,no,4,yes,often,very often,normal,3.0,not much,yes
+less than 40,Female,no,> 60 min,20.0,no,no,9,no,occasionally,sometimes,normal,2.0,not much,no
+less than 40,Male,yes,30-60 min,24.0,yes,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,21.0,no,no,7,no,often,not at all,normal,0.0,not much,no
+less than 40,Female,no,> 60 min,20.0,no,no,6,no,very often,not at all,normal,0.0,not much,no
+50-59,Male,no,> 60 min,27.0,no,no,7,no,very often,not at all,normal,0.0,not much,yes
+40-49,Male,yes,none,29.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+60 or older,Female,no,none,18.0,no,no,6,yes,occasionally,sometimes,normal,3.0,quite often,yes
+less than 40,Female,no,> 60 min,32.0,no,no,8,yes,occasionally,sometimes,normal,3.0,not much,no
+40-49,Female,no,> 60 min,21.0,no,no,7,no,occasionally,sometimes,normal,3.0,quite often,no
+60 or older,Male,no,none,26.0,no,no,4,yes,occasionally,not at all,high,0.0,not much,yes
+60 or older,Female,yes,30-60 min,31.0,no,no,8,yes,occasionally,not at all,normal,3.0,not much,yes
+60 or older,Female,yes,none,26.0,no,no,7,no,occasionally,sometimes,normal,3.0,not much,yes
+60 or older,Male,yes,none,21.0,no,no,8,yes,occasionally,not at all,normal,0.0,not much,yes
+40-49,Female,yes,30-60 min,28.0,no,no,8,yes,occasionally,very often,normal,2.0,not much,yes
+50-59,Male,no,> 60 min,24.0,no,no,8,yes,occasionally,sometimes,high,0.0,not much,yes
+40-49,Male,no,30-60 min,27.0,no,no,8,yes,occasionally,not at all,high,0.0,not much,yes
+40-49,Male,no,30-60 min,21.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Male,no,none,27.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+60 or older,Male,no,none,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,yes
+less than 40,Male,yes,30-60 min,36.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,21.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,22.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,21.0,no,no,6,no,occasionally,sometimes,low,0.0,not much,no
+50-59,Male,yes,> 60 min,38.0,no,yes,8,yes,occasionally,very often,normal,0.0,not much,yes
+50-59,Female,yes,30-60 min,40.0,no,no,9,yes,very often,sometimes,high,2.0,not much,yes
+60 or older,Male,yes,none,35.0,no,no,5,no,occasionally,sometimes,high,0.0,quite often,yes
+60 or older,Female,yes,none,24.0,no,no,4,yes,occasionally,very often,high,3.0,quite often,yes
+60 or older,Male,no,none,18.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,30-60 min,23.0,no,no,7,no,often,sometimes,normal,2.0,not much,no
+60 or older,Male,no,< 30 min,19.0,no,yes,6,yes,often,sometimes,high,1.0,not much,yes
+less than 40,Male,no,30-60 min,26.0,yes,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,30.0,yes,yes,5,yes,often,not at all,normal,1.0,not much,no
+60 or older,Female,no,< 30 min,27.0,no,no,6,yes,occasionally,very often,high,0.0,quite often,yes
+less than 40,Male,no,none,18.0,yes,yes,7,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,29.0,yes,yes,6,yes,often,very often,normal,0.0,not much,no
+50-59,Male,no,< 30 min,19.0,no,yes,6,yes,occasionally,very often,high,0.0,not much,yes
+50-59,Female,yes,none,21.0,no,no,8,yes,occasionally,very often,normal,0.0,quite often,yes
+less than 40,Male,no,none,24.0,no,no,10,no,occasionally,not at all,normal,0.0,not much,no
+60 or older,Male,no,none,31.0,no,no,6,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,22.0,no,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,yes,none,19.0,no,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,> 60 min,27.0,no,no,6,no,occasionally,very often,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,26.0,no,no,10,yes,occasionally,very often,high,0.0,quite often,yes
+50-59,Female,yes,none,21.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Male,yes,> 60 min,26.0,no,no,6,yes,occasionally,not at all,normal,0.0,not much,yes
+50-59,Male,yes,> 60 min,23.0,yes,yes,5,yes,occasionally,very often,normal,0.0,not much,yes
+less than 40,Male,yes,> 60 min,26.0,yes,yes,5,yes,often,not at all,high,0.0,not much,yes
+60 or older,Female,yes,< 30 min,18.0,no,no,4,yes,occasionally,sometimes,high,0.0,not much,yes
+60 or older,Female,yes,< 30 min,19.0,no,no,9,yes,occasionally,very often,high,4.0,quite often,yes
+50-59,Male,yes,none,24.0,no,yes,7,no,occasionally,very often,normal,0.0,not much,no
+60 or older,Female,yes,< 30 min,33.0,no,no,6,yes,occasionally,sometimes,high,2.0,not much,yes
+50-59,Male,yes,none,31.0,no,yes,7,yes,occasionally,very often,high,0.0,not much,yes
+40-49,Female,no,none,23.0,no,no,7,no,often,very often,normal,1.0,not much,no
+50-59,Male,yes,< 30 min,23.0,no,no,7,yes,occasionally,sometimes,normal,0.0,not much,yes
+50-59,Female,no,none,20.0,no,no,7,yes,occasionally,sometimes,high,1.0,not much,yes
+50-59,Male,no,30-60 min,28.0,no,yes,7,no,occasionally,sometimes,high,0.0,not much,yes
+60 or older,Male,yes,< 30 min,26.0,no,yes,6,yes,occasionally,not at all,high,0.0,not much,yes
+less than 40,Male,no,> 60 min,24.0,no,no,7,no,often,sometimes,normal,0.0,not much,no
+60 or older,Male,no,30-60 min,24.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,yes
+less than 40,Female,no,< 30 min,17.0,no,no,4,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,28.0,yes,yes,4,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,23.0,yes,no,6,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,19.0,no,no,7,yes,occasionally,sometimes,normal,1.0,not much,no
+60 or older,Male,no,< 30 min,15.0,no,no,4,yes,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,no,< 30 min,22.0,no,no,6,no,often,not at all,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,23.0,no,no,7,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,no,> 60 min,18.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,21.0,no,no,5,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,21.0,no,no,7,yes,often,very often,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,21.0,no,no,9,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,22.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,25.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,< 30 min,20.0,yes,yes,6,no,occasionally,very often,high,0.0,quite often,yes
+less than 40,Male,no,30-60 min,24.0,no,no,8,no,often,not at all,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Male,no,< 30 min,26.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,< 30 min,27.0,no,no,8,no,occasionally,sometimes,low,1.0,not much,no
+less than 40,Female,no,> 60 min,26.0,no,no,8,no,occasionally,sometimes,low,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,no,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,8,no,occasionally,not at all,normal,3.0,not much,yes
+40-49,Female,no,< 30 min,22.0,no,no,8,no,occasionally,not at all,normal,3.0,not much,no
+60 or older,Male,no,30-60 min,23.0,no,yes,7,yes,occasionally,very often,high,0.0,quite often,yes
+60 or older,Male,no,< 30 min,28.0,no,no,8,yes,occasionally,not at all,normal,0.0,quite often,yes
+60 or older,Male,yes,< 30 min,32.0,no,no,8,no,often,very often,high,0.0,not much,yes
+40-49,Female,yes,< 30 min,33.0,no,no,6,no,very often,very often,normal,2.0,not much,yes
+less than 40,Female,yes,> 60 min,24.0,no,no,8,no,often,sometimes,normal,0.0,not much,no
+50-59,Female,yes,< 30 min,28.0,no,no,7,yes,occasionally,very often,high,0.0,quite often,yes
+50-59,Male,no,< 30 min,30.0,no,no,7,no,often,very often,normal,0.0,not much,no
+50-59,Male,yes,> 60 min,30.0,yes,yes,7,yes,often,very often,high,0.0,quite often,yes
+less than 40,Female,yes,30-60 min,27.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,27.0,no,no,9,no,very often,very often,high,0.0,not much,no
+less than 40,Male,no,> 60 min,22.0,yes,no,9,no,very often,very often,high,0.0,quite often,no
+less than 40,Female,no,30-60 min,23.0,no,no,5,no,often,very often,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,18.0,no,no,7,yes,often,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,22.0,no,no,7,no,often,very often,normal,0.0,not much,no
+60 or older,Male,yes,30-60 min,21.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+60 or older,Female,no,> 60 min,26.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+50-59,Female,yes,none,28.0,no,no,6,yes,occasionally,very often,high,2.0,not much,yes
+less than 40,Male,no,30-60 min,26.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Female,no,< 30 min,31.0,no,no,7,yes,occasionally,very often,high,0.0,quite often,no
+50-59,Male,no,< 30 min,33.0,no,yes,5,yes,occasionally,sometimes,high,0.0,not much,no
+less than 40,Female,no,> 60 min,30.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,23.0,no,yes,6,no,often,very often,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,29.0,no,no,6,no,often,sometimes,normal,2.0,quite often,no
+40-49,Female,yes,30-60 min,17.0,no,no,7,no,very often,sometimes,normal,3.0,not much,no
+50-59,Female,yes,< 30 min,24.0,no,no,8,yes,occasionally,sometimes,normal,2.0,not much,no
+60 or older,Male,yes,30-60 min,26.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,quite often,yes
+less than 40,Female,yes,> 60 min,27.0,no,yes,8,no,very often,very often,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,21.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Female,yes,< 30 min,26.0,no,no,7,no,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,yes,> 60 min,20.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,22.0,no,no,6,no,occasionally,sometimes,low,0.0,not much,no
+less than 40,Male,yes,30-60 min,21.0,yes,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,26.0,no,no,7,no,often,sometimes,low,0.0,not much,no
+less than 40,Female,yes,none,21.0,no,yes,9,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,none,21.0,no,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,24.0,no,no,8,yes,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,24.0,yes,yes,7,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,26.0,no,yes,6,no,occasionally,very often,normal,0.0,not much,no
+50-59,Male,yes,< 30 min,32.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Male,yes,30-60 min,34.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,30.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,30-60 min,42.0,no,no,7,yes,occasionally,very often,high,0.0,not much,no
+less than 40,Male,yes,< 30 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,23.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,yes,30-60 min,27.0,no,yes,7,no,occasionally,sometimes,high,0.0,not much,no
+40-49,Female,no,> 60 min,25.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,no,< 30 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,no,< 30 min,33.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,< 30 min,33.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Female,no,30-60 min,28.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,28.0,no,no,6,no,occasionally,not at all,normal,0.0,quite often,no
+40-49,Female,yes,30-60 min,36.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,30-60 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,28.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,yes,< 30 min,38.0,no,no,7,no,occasionally,not at all,normal,0.0,quite often,no
+50-59,Female,no,30-60 min,33.0,no,no,6,yes,occasionally,sometimes,high,0.0,quite often,yes
+40-49,Male,no,< 30 min,38.0,no,no,5,yes,occasionally,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,< 30 min,36.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,yes,< 30 min,33.0,no,no,6,no,occasionally,very often,normal,0.0,quite often,no
+less than 40,Female,no,30-60 min,33.0,no,no,7,no,often,not at all,normal,0.0,quite often,no
+40-49,Female,no,< 30 min,38.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,30-60 min,36.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,33.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Male,no,< 30 min,38.0,no,no,6,yes,occasionally,sometimes,normal,0.0,quite often,no
+60 or older,Female,yes,< 30 min,38.0,no,no,5,yes,occasionally,very often,high,0.0,quite often,yes
+60 or older,Male,no,< 30 min,33.0,no,no,6,yes,occasionally,very often,high,0.0,quite often,yes
+less than 40,Female,no,< 30 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,yes,30-60 min,38.0,no,no,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,< 30 min,32.0,no,no,6,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,33.0,no,no,8,no,often,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,none,22.0,no,no,10,yes,occasionally,very often,normal,2.0,not much,no
+40-49,Male,yes,none,24.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Female,yes,30-60 min,23.0,no,no,9,yes,occasionally,very often,high,3.0,quite often,yes
+60 or older,Female,yes,< 30 min,27.0,no,no,7,yes,occasionally,sometimes,high,3.0,quite often,yes
+60 or older,Male,yes,30-60 min,24.0,no,yes,7,yes,occasionally,very often,high,0.0,not much,yes
+less than 40,Female,yes,none,18.0,no,no,8,yes,often,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,none,20.0,no,no,9,no,often,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,19.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,28.0,yes,yes,7,no,often,not at all,normal,0.0,not much,yes
+less than 40,Female,no,< 30 min,19.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,25.0,yes,yes,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,25.0,no,yes,7,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,yes,yes,10,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,27.0,no,no,7,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,yes,30-60 min,19.0,yes,yes,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,none,25.0,yes,yes,10,no,often,very often,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,28.0,no,no,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,> 60 min,25.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,< 30 min,21.0,no,no,8,no,often,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,23.0,no,no,9,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,28.0,yes,yes,8,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,20.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,18.0,no,no,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,> 60 min,25.0,no,no,6,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,28.0,no,no,6,no,occasionally,not at all,high,0.0,quite often,no
+less than 40,Male,yes,< 30 min,27.0,yes,yes,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,20.0,no,no,8,no,very often,not at all,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,20.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,> 60 min,17.0,no,no,8,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,26.0,no,no,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,21.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,< 30 min,29.0,no,no,8,no,often,sometimes,low,0.0,not much,no
+less than 40,Male,yes,30-60 min,29.0,no,yes,6,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,24.0,yes,yes,8,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,yes,< 30 min,23.0,no,no,5,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,23.0,no,no,5,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,29.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,none,19.0,no,no,9,no,very often,sometimes,normal,2.0,not much,no
+less than 40,Male,no,< 30 min,23.0,yes,yes,8,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,17.0,no,no,6,no,often,sometimes,normal,0.0,not much,no
+50-59,Female,yes,> 60 min,23.0,no,no,6,no,occasionally,sometimes,high,2.0,not much,no
+40-49,Male,yes,< 30 min,24.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,< 30 min,25.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,yes,< 30 min,35.0,no,no,8,yes,often,very often,normal,2.0,quite often,yes
+40-49,Female,yes,30-60 min,33.0,no,no,7,yes,occasionally,sometimes,high,0.0,quite often,yes
+40-49,Female,yes,> 60 min,34.0,no,no,6,yes,very often,very often,normal,0.0,quite often,yes
+50-59,Male,yes,30-60 min,36.0,yes,no,6,yes,often,very often,high,0.0,not much,yes
+60 or older,Male,no,< 30 min,30.0,no,yes,6,yes,often,very often,high,0.0,not much,yes
+less than 40,Male,yes,> 60 min,28.0,yes,yes,5,yes,very often,very often,normal,0.0,quite often,yes
+40-49,Male,yes,< 30 min,35.0,yes,yes,5,yes,very often,sometimes,high,0.0,not much,yes
+40-49,Male,no,> 60 min,24.0,no,yes,6,no,occasionally,not at all,normal,0.0,not much,no
+50-59,Female,no,> 60 min,22.0,no,no,8,yes,occasionally,very often,normal,3.0,not much,yes
+less than 40,Male,no,< 30 min,30.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Male,yes,> 60 min,22.0,no,no,7,yes,occasionally,sometimes,high,0.0,not much,yes
+less than 40,Male,yes,30-60 min,22.0,no,no,8,no,often,sometimes,normal,0.0,not much,yes
+60 or older,Male,yes,30-60 min,27.0,no,no,6,yes,occasionally,sometimes,high,0.0,quite often,yes
+60 or older,Male,no,none,23.0,no,no,6,yes,occasionally,sometimes,high,0.0,not much,yes
+60 or older,Male,no,< 30 min,27.0,no,yes,6,yes,occasionally,very often,high,0.0,not much,yes
+60 or older,Female,yes,> 60 min,29.0,no,no,7,yes,occasionally,sometimes,high,2.0,quite often,yes
+50-59,Male,no,> 60 min,39.0,no,no,8,no,occasionally,sometimes,high,0.0,not much,no
+50-59,Male,no,< 30 min,28.0,no,no,8,yes,very often,sometimes,normal,0.0,not much,no
+40-49,Male,no,> 60 min,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,> 60 min,23.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Male,no,< 30 min,27.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,none,21.0,no,yes,10,no,occasionally,sometimes,high,0.0,not much,yes
+less than 40,Male,no,> 60 min,24.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,20.0,no,no,7,yes,occasionally,sometimes,low,0.0,not much,no
+40-49,Male,yes,> 60 min,23.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,20.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,none,20.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+40-49,Male,no,< 30 min,26.0,yes,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,6,no,occasionally,sometimes,normal,1.0,not much,no
+less than 40,Female,no,> 60 min,22.0,no,no,8,no,occasionally,very often,normal,2.0,not much,no
+less than 40,Male,no,> 60 min,15.0,no,no,7,no,occasionally,very often,normal,0.0,not much,no
+40-49,Female,yes,none,34.0,no,no,6,no,occasionally,sometimes,normal,3.0,not much,no
+50-59,Male,yes,30-60 min,22.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,24.0,no,no,6,no,occasionally,sometimes,normal,2.0,quite often,no
+40-49,Male,yes,> 60 min,24.0,no,no,11,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,22.0,no,no,8,no,often,not at all,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,30.0,no,yes,9,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,24.0,no,no,4,yes,often,very often,normal,3.0,quite often,yes
+less than 40,Female,yes,> 60 min,24.0,no,no,4,yes,often,very often,normal,3.0,not much,yes
+less than 40,Female,no,> 60 min,20.0,no,no,9,no,occasionally,sometimes,normal,2.0,not much,no
+less than 40,Male,yes,30-60 min,24.0,yes,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,21.0,no,no,7,no,often,not at all,normal,0.0,not much,no
+less than 40,Female,no,> 60 min,20.0,no,no,6,no,very often,not at all,normal,0.0,not much,no
+50-59,Male,no,> 60 min,27.0,no,no,7,no,very often,not at all,normal,0.0,not much,no
+40-49,Male,yes,none,29.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+60 or older,Female,no,none,18.0,no,no,6,yes,occasionally,sometimes,normal,3.0,quite often,yes
+less than 40,Female,no,> 60 min,32.0,no,no,8,yes,occasionally,sometimes,normal,3.0,not much,no
+40-49,Female,no,> 60 min,21.0,no,no,7,no,occasionally,sometimes,normal,3.0,quite often,no
+60 or older,Male,no,none,26.0,no,no,4,yes,occasionally,not at all,high,0.0,not much,yes
+60 or older,Female,yes,30-60 min,31.0,no,no,8,yes,occasionally,not at all,normal,3.0,not much,yes
+60 or older,Female,yes,none,26.0,no,no,7,no,occasionally,sometimes,normal,3.0,not much,no
+60 or older,Male,yes,none,21.0,no,no,8,yes,occasionally,not at all,normal,0.0,not much,yes
+40-49,Female,yes,30-60 min,28.0,no,no,8,yes,occasionally,very often,normal,2.0,not much,yes
+50-59,Male,no,> 60 min,24.0,no,no,8,yes,occasionally,sometimes,high,0.0,not much,yes
+40-49,Male,no,30-60 min,27.0,no,no,8,yes,occasionally,not at all,high,0.0,not much,yes
+40-49,Male,no,30-60 min,21.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Male,no,none,27.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+60 or older,Male,no,none,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,yes
+less than 40,Male,yes,30-60 min,36.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,21.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,22.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,21.0,no,no,6,no,occasionally,sometimes,low,0.0,not much,no
+50-59,Male,yes,> 60 min,38.0,no,yes,8,yes,occasionally,very often,normal,0.0,not much,yes
+50-59,Female,yes,30-60 min,40.0,no,no,9,yes,very often,sometimes,high,2.0,not much,yes
+60 or older,Male,yes,none,35.0,no,no,5,no,occasionally,sometimes,high,0.0,quite often,yes
+60 or older,Female,yes,none,24.0,no,no,4,yes,occasionally,very often,high,3.0,quite often,yes
+60 or older,Male,no,none,18.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,30-60 min,23.0,no,no,7,no,often,sometimes,normal,2.0,not much,no
+60 or older,Male,no,< 30 min,19.0,no,yes,6,yes,often,sometimes,high,1.0,not much,no
+less than 40,Male,no,30-60 min,26.0,yes,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,30.0,yes,yes,5,yes,often,not at all,normal,1.0,not much,no
+60 or older,Female,no,< 30 min,27.0,no,no,6,yes,occasionally,very often,high,0.0,quite often,yes
+less than 40,Male,no,none,18.0,yes,yes,7,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,29.0,yes,yes,6,yes,often,very often,normal,0.0,not much,no
+50-59,Male,no,< 30 min,19.0,no,yes,6,yes,occasionally,very often,high,0.0,not much,no
+50-59,Female,yes,none,21.0,no,no,8,yes,occasionally,very often,normal,0.0,quite often,yes
+less than 40,Male,no,none,24.0,no,no,10,no,occasionally,not at all,normal,0.0,not much,no
+60 or older,Male,no,none,31.0,no,no,6,no,occasionally,very often,normal,0.0,not much,yes
+less than 40,Male,yes,30-60 min,22.0,no,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,yes,none,19.0,no,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,> 60 min,27.0,no,no,6,no,occasionally,very often,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,26.0,no,no,10,yes,occasionally,very often,high,0.0,quite often,yes
+50-59,Female,yes,none,21.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Male,yes,> 60 min,26.0,no,no,6,yes,occasionally,not at all,normal,0.0,not much,yes
+50-59,Male,yes,> 60 min,23.0,yes,yes,5,yes,occasionally,very often,normal,0.0,not much,yes
+less than 40,Male,yes,> 60 min,26.0,yes,yes,5,yes,often,not at all,high,0.0,not much,yes
+60 or older,Female,yes,< 30 min,18.0,no,no,4,yes,occasionally,sometimes,high,0.0,not much,yes
+60 or older,Female,yes,< 30 min,19.0,no,no,9,yes,occasionally,very often,high,4.0,quite often,yes
+50-59,Male,yes,none,24.0,no,yes,7,no,occasionally,very often,normal,0.0,not much,no
+60 or older,Female,yes,< 30 min,33.0,no,no,6,yes,occasionally,sometimes,high,2.0,not much,yes
+50-59,Male,yes,none,31.0,no,yes,7,yes,occasionally,very often,high,0.0,not much,yes
+40-49,Female,no,none,23.0,no,no,7,no,often,very often,normal,1.0,not much,no
+50-59,Male,yes,< 30 min,23.0,no,no,7,yes,occasionally,sometimes,normal,0.0,not much,yes
+50-59,Female,no,none,20.0,no,no,7,yes,occasionally,sometimes,high,1.0,not much,yes
+50-59,Male,no,30-60 min,28.0,no,yes,7,no,occasionally,sometimes,high,0.0,not much,no
+60 or older,Male,yes,< 30 min,26.0,no,yes,6,yes,occasionally,not at all,high,0.0,not much,no
+less than 40,Male,no,> 60 min,24.0,no,no,7,no,often,sometimes,normal,0.0,not much,no
+60 or older,Male,no,30-60 min,24.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,yes
+less than 40,Female,no,< 30 min,17.0,no,no,4,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,28.0,yes,yes,4,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,23.0,yes,no,6,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,19.0,no,no,7,yes,occasionally,sometimes,normal,1.0,not much,no
+60 or older,Male,no,< 30 min,15.0,no,no,4,yes,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,no,< 30 min,22.0,no,no,6,no,often,not at all,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,23.0,no,no,7,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,no,> 60 min,18.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,21.0,no,no,5,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,21.0,no,no,7,yes,often,very often,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,21.0,no,no,9,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,22.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,25.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,< 30 min,20.0,yes,yes,6,no,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,no,30-60 min,24.0,no,no,8,no,often,not at all,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Male,no,< 30 min,26.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,< 30 min,27.0,no,no,8,no,occasionally,sometimes,low,1.0,not much,no
+less than 40,Female,no,> 60 min,26.0,no,no,8,no,occasionally,sometimes,low,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,no,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,8,no,occasionally,not at all,normal,3.0,not much,yes
+40-49,Female,no,< 30 min,22.0,no,no,8,no,occasionally,not at all,normal,3.0,not much,no
+60 or older,Male,no,30-60 min,23.0,no,yes,7,yes,occasionally,very often,high,0.0,quite often,yes
+60 or older,Male,no,< 30 min,28.0,no,no,8,yes,occasionally,not at all,normal,0.0,quite often,yes
+60 or older,Male,yes,< 30 min,32.0,no,no,8,no,often,very often,high,0.0,not much,yes
+40-49,Female,yes,< 30 min,33.0,no,no,6,no,very often,very often,normal,2.0,not much,yes
+less than 40,Female,yes,> 60 min,24.0,no,no,8,no,often,sometimes,normal,0.0,not much,no
+50-59,Female,yes,< 30 min,28.0,no,no,7,yes,occasionally,very often,high,0.0,quite often,yes
+50-59,Male,no,< 30 min,30.0,no,no,7,no,often,very often,normal,0.0,not much,no
+50-59,Male,yes,> 60 min,30.0,yes,yes,7,yes,often,very often,high,0.0,quite often,yes
+less than 40,Female,yes,30-60 min,27.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,27.0,no,no,9,no,very often,very often,high,0.0,not much,no
+less than 40,Male,no,> 60 min,22.0,yes,no,9,no,very often,very often,high,0.0,quite often,no
+less than 40,Female,no,30-60 min,23.0,no,no,5,no,often,very often,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,18.0,no,no,7,yes,often,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,22.0,no,no,7,no,often,very often,normal,0.0,not much,no
+60 or older,Male,yes,30-60 min,21.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,quite often,yes
+60 or older,Female,no,> 60 min,26.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+50-59,Female,yes,none,28.0,no,no,6,yes,occasionally,very often,high,2.0,not much,yes
+less than 40,Male,no,30-60 min,26.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Female,no,< 30 min,31.0,no,no,7,yes,occasionally,very often,high,0.0,quite often,no
+50-59,Male,no,< 30 min,33.0,no,yes,5,yes,occasionally,sometimes,high,0.0,not much,no
+less than 40,Female,no,> 60 min,30.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,23.0,no,yes,6,no,often,very often,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,29.0,no,no,6,no,often,sometimes,normal,2.0,quite often,no
+40-49,Female,yes,30-60 min,17.0,no,no,7,no,very often,sometimes,normal,3.0,not much,no
+50-59,Female,yes,< 30 min,24.0,no,no,8,yes,occasionally,sometimes,normal,2.0,not much,no
+60 or older,Male,yes,30-60 min,26.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,quite often,yes
+less than 40,Female,yes,> 60 min,27.0,no,yes,8,no,very often,very often,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,21.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Female,yes,< 30 min,26.0,no,no,7,no,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,yes,> 60 min,20.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,22.0,no,no,6,no,occasionally,sometimes,low,0.0,not much,no
+less than 40,Male,yes,30-60 min,21.0,yes,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,26.0,no,no,7,no,often,sometimes,low,0.0,not much,no
+less than 40,Female,yes,none,21.0,no,yes,9,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,none,21.0,no,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,24.0,no,no,8,yes,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,24.0,yes,yes,7,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,26.0,no,yes,6,no,occasionally,very often,normal,0.0,not much,no
+50-59,Male,yes,< 30 min,32.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,34.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,30.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,30-60 min,42.0,no,no,7,yes,occasionally,very often,high,0.0,not much,no
+less than 40,Male,yes,< 30 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,23.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,yes,30-60 min,27.0,no,yes,7,no,occasionally,sometimes,high,0.0,not much,no
+40-49,Female,no,> 60 min,25.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,no,< 30 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,no,< 30 min,33.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,< 30 min,33.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,yes
+50-59,Female,no,30-60 min,28.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,28.0,no,no,6,no,occasionally,not at all,normal,0.0,quite often,no
+40-49,Female,yes,30-60 min,36.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,30-60 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,28.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,yes,< 30 min,38.0,no,no,7,no,occasionally,not at all,normal,0.0,quite often,no
+50-59,Female,no,30-60 min,33.0,no,no,6,yes,occasionally,sometimes,high,0.0,quite often,no
+40-49,Male,no,< 30 min,38.0,no,no,5,yes,occasionally,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,< 30 min,36.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,yes,< 30 min,33.0,no,no,6,no,occasionally,very often,normal,0.0,quite often,no
+less than 40,Female,no,30-60 min,33.0,no,no,7,no,often,not at all,normal,0.0,quite often,no
+40-49,Female,no,< 30 min,38.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,30-60 min,36.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,33.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Male,no,< 30 min,38.0,no,no,6,yes,occasionally,sometimes,normal,0.0,quite often,no
+60 or older,Female,yes,< 30 min,38.0,no,no,5,yes,occasionally,very often,high,0.0,quite often,yes
+60 or older,Male,no,< 30 min,33.0,no,no,6,yes,occasionally,very often,high,0.0,quite often,yes
+less than 40,Female,no,< 30 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,yes,30-60 min,38.0,no,no,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,< 30 min,32.0,no,no,6,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,33.0,no,no,8,no,often,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,none,22.0,no,no,10,yes,occasionally,very often,normal,2.0,not much,no
+40-49,Male,yes,none,24.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Female,yes,30-60 min,23.0,no,no,9,yes,occasionally,very often,high,3.0,quite often,yes
+60 or older,Female,yes,< 30 min,27.0,no,no,7,yes,occasionally,sometimes,high,3.0,quite often,yes
+60 or older,Male,yes,30-60 min,24.0,no,yes,7,yes,occasionally,very often,high,0.0,not much,yes
+less than 40,Female,yes,none,18.0,no,no,8,yes,often,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,none,20.0,no,no,9,no,often,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,19.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,28.0,yes,yes,7,no,often,not at all,normal,0.0,not much,yes
+less than 40,Female,no,< 30 min,19.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,25.0,yes,yes,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,25.0,no,yes,7,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,yes,yes,10,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,27.0,no,no,7,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,yes,30-60 min,19.0,yes,yes,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,none,25.0,yes,yes,10,no,often,very often,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,28.0,no,no,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,> 60 min,25.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,< 30 min,21.0,no,no,8,no,often,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,23.0,no,no,9,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,28.0,yes,yes,8,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,20.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,18.0,no,no,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,> 60 min,25.0,no,no,6,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,28.0,no,no,6,no,occasionally,not at all,high,0.0,quite often,no
+less than 40,Male,yes,< 30 min,27.0,yes,yes,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,20.0,no,no,8,no,very often,not at all,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,20.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,> 60 min,17.0,no,no,8,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,26.0,no,no,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,21.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,< 30 min,29.0,no,no,8,no,often,sometimes,low,0.0,not much,no
+less than 40,Male,yes,30-60 min,29.0,no,yes,6,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,24.0,yes,yes,8,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,yes,< 30 min,23.0,no,no,5,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,23.0,no,no,5,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,29.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,none,19.0,no,no,9,no,very often,sometimes,normal,2.0,not much,no
+less than 40,Male,no,< 30 min,23.0,yes,yes,8,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,17.0,no,no,6,no,often,sometimes,normal,0.0,not much,no
+50-59,Female,yes,> 60 min,23.0,no,no,6,no,occasionally,sometimes,high,2.0,not much,no
+40-49,Male,yes,< 30 min,24.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,< 30 min,25.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,yes,< 30 min,35.0,no,no,8,yes,often,very often,normal,2.0,quite often,yes
+40-49,Female,yes,30-60 min,33.0,no,no,7,yes,occasionally,sometimes,high,0.0,quite often,yes
+40-49,Female,yes,> 60 min,34.0,no,no,6,yes,very often,very often,normal,0.0,quite often,yes
+50-59,Male,yes,30-60 min,36.0,yes,no,6,yes,often,very often,high,0.0,not much,yes
+60 or older,Male,no,< 30 min,30.0,no,yes,6,yes,often,very often,high,0.0,not much,yes
+less than 40,Male,yes,> 60 min,28.0,yes,yes,5,yes,very often,very often,normal,0.0,quite often,yes
+40-49,Male,yes,< 30 min,35.0,yes,yes,5,yes,very often,sometimes,high,0.0,not much,yes
+40-49,Male,no,> 60 min,24.0,no,yes,6,no,occasionally,not at all,normal,0.0,not much,no
+50-59,Female,no,> 60 min,22.0,no,no,8,yes,occasionally,very often,normal,3.0,not much,yes
+less than 40,Male,no,< 30 min,30.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Male,yes,> 60 min,22.0,no,no,7,yes,occasionally,sometimes,high,0.0,not much,yes
+less than 40,Male,yes,30-60 min,22.0,no,no,8,no,often,sometimes,normal,0.0,not much,yes
+60 or older,Male,yes,30-60 min,27.0,no,no,6,yes,occasionally,sometimes,high,0.0,quite often,yes
+60 or older,Male,no,none,23.0,no,no,6,yes,occasionally,sometimes,high,0.0,not much,no
+60 or older,Male,no,< 30 min,27.0,no,yes,6,yes,occasionally,very often,high,0.0,not much,yes
+60 or older,Female,yes,> 60 min,29.0,no,no,7,yes,occasionally,sometimes,high,2.0,quite often,yes
+50-59,Male,no,> 60 min,39.0,no,no,8,no,occasionally,sometimes,high,0.0,not much,no
+50-59,Male,no,< 30 min,28.0,no,no,8,yes,very often,sometimes,normal,0.0,not much,no
+40-49,Male,no,> 60 min,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,> 60 min,23.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,< 30 min,27.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,none,21.0,no,yes,10,no,occasionally,sometimes,high,0.0,not much,yes
+less than 40,Male,no,> 60 min,24.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,20.0,no,no,7,yes,occasionally,sometimes,low,0.0,not much,no
+40-49,Male,yes,> 60 min,23.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,20.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,none,20.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+40-49,Male,no,< 30 min,26.0,yes,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,6,no,occasionally,sometimes,normal,1.0,not much,no
+less than 40,Female,no,> 60 min,22.0,no,no,8,no,occasionally,very often,normal,2.0,not much,no
+less than 40,Male,no,> 60 min,15.0,no,no,7,no,occasionally,very often,normal,0.0,not much,no
+40-49,Female,yes,none,34.0,no,no,6,no,occasionally,sometimes,normal,3.0,not much,no
+50-59,Male,yes,30-60 min,22.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,24.0,no,no,6,no,occasionally,sometimes,normal,2.0,quite often,no
+40-49,Male,yes,> 60 min,24.0,no,no,11,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,22.0,no,no,8,no,often,not at all,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,30.0,no,yes,9,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,24.0,no,no,4,yes,often,very often,normal,3.0,quite often,yes
+less than 40,Female,yes,> 60 min,24.0,no,no,4,yes,often,very often,normal,3.0,not much,yes
+less than 40,Female,no,> 60 min,20.0,no,no,9,no,occasionally,sometimes,normal,2.0,not much,no
+less than 40,Male,yes,30-60 min,24.0,yes,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,21.0,no,no,7,no,often,not at all,normal,0.0,not much,no
+less than 40,Female,no,> 60 min,20.0,no,no,6,no,very often,not at all,normal,0.0,not much,no
+50-59,Male,yes,> 60 min,27.0,no,no,7,no,very often,not at all,normal,0.0,not much,yes
+40-49,Male,yes,none,29.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+60 or older,Female,no,none,18.0,no,no,6,yes,occasionally,sometimes,normal,3.0,quite often,yes
+less than 40,Female,no,> 60 min,32.0,no,no,8,yes,occasionally,sometimes,normal,3.0,not much,no
+40-49,Female,no,> 60 min,21.0,no,no,7,no,occasionally,sometimes,normal,3.0,quite often,no
+60 or older,Male,no,none,26.0,no,no,4,yes,occasionally,not at all,high,0.0,not much,yes
+60 or older,Female,yes,30-60 min,31.0,no,no,8,yes,occasionally,not at all,normal,3.0,not much,yes
+60 or older,Female,yes,none,26.0,no,no,7,no,occasionally,sometimes,normal,3.0,not much,yes
+60 or older,Male,yes,none,21.0,no,no,8,yes,occasionally,not at all,normal,0.0,not much,yes
+40-49,Female,yes,30-60 min,28.0,no,no,8,yes,occasionally,very often,normal,2.0,not much,yes
+50-59,Male,no,> 60 min,24.0,no,no,8,yes,occasionally,sometimes,high,0.0,not much,yes
+40-49,Male,no,30-60 min,27.0,no,no,8,yes,occasionally,not at all,high,0.0,not much,yes
+40-49,Male,no,30-60 min,21.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Male,no,none,27.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+60 or older,Male,no,none,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,yes
+less than 40,Male,yes,30-60 min,36.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,21.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,22.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,21.0,no,no,6,no,occasionally,sometimes,low,0.0,not much,no
+50-59,Male,yes,> 60 min,38.0,no,yes,8,yes,occasionally,very often,normal,0.0,not much,yes
+50-59,Female,yes,30-60 min,40.0,no,no,9,yes,very often,sometimes,high,2.0,not much,yes
+60 or older,Male,yes,none,35.0,no,no,5,no,occasionally,sometimes,high,0.0,quite often,yes
+60 or older,Female,yes,none,24.0,no,no,4,yes,occasionally,very often,high,3.0,quite often,yes
+60 or older,Male,no,none,18.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,no,30-60 min,23.0,no,no,7,no,often,sometimes,normal,2.0,not much,no
+60 or older,Male,no,< 30 min,19.0,no,yes,6,yes,often,sometimes,high,1.0,not much,yes
+less than 40,Male,no,30-60 min,26.0,yes,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,30.0,yes,yes,5,yes,often,not at all,normal,1.0,not much,no
+60 or older,Female,no,< 30 min,27.0,no,no,6,yes,occasionally,very often,high,0.0,quite often,yes
+less than 40,Male,no,none,18.0,yes,yes,7,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,29.0,yes,yes,6,yes,often,very often,normal,0.0,not much,no
+50-59,Male,no,< 30 min,19.0,no,yes,6,yes,occasionally,very often,high,0.0,not much,no
+50-59,Female,yes,none,21.0,no,no,8,yes,occasionally,very often,normal,0.0,quite often,yes
+less than 40,Male,no,none,24.0,no,no,10,no,occasionally,not at all,normal,0.0,not much,no
+60 or older,Male,no,none,31.0,no,no,6,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,22.0,no,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,yes,none,19.0,no,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,> 60 min,27.0,no,no,6,no,occasionally,very often,normal,0.0,not much,no
+40-49,Male,yes,< 30 min,26.0,no,no,10,yes,occasionally,very often,high,0.0,quite often,yes
+50-59,Female,yes,none,21.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Male,yes,> 60 min,26.0,no,no,6,yes,occasionally,not at all,normal,0.0,not much,yes
+50-59,Male,yes,> 60 min,23.0,yes,yes,5,yes,occasionally,very often,normal,0.0,not much,yes
+less than 40,Male,yes,> 60 min,26.0,yes,yes,5,yes,often,not at all,high,0.0,not much,yes
+60 or older,Female,yes,< 30 min,18.0,no,no,4,yes,occasionally,sometimes,high,0.0,not much,yes
+60 or older,Female,yes,< 30 min,19.0,no,no,9,yes,occasionally,very often,high,4.0,quite often,yes
+50-59,Male,yes,none,24.0,no,yes,7,no,occasionally,very often,normal,0.0,not much,no
+60 or older,Female,yes,< 30 min,33.0,no,no,6,yes,occasionally,sometimes,high,2.0,not much,yes
+50-59,Male,yes,none,31.0,no,yes,7,yes,occasionally,very often,high,0.0,not much,yes
+40-49,Female,no,none,23.0,no,no,7,no,often,very often,normal,1.0,not much,no
+50-59,Male,yes,< 30 min,23.0,no,no,7,yes,occasionally,sometimes,normal,0.0,not much,yes
+50-59,Female,no,none,20.0,no,no,7,yes,occasionally,sometimes,high,1.0,not much,yes
+50-59,Male,no,30-60 min,28.0,no,yes,7,no,occasionally,sometimes,high,0.0,not much,no
+60 or older,Male,yes,< 30 min,26.0,no,yes,6,yes,occasionally,not at all,high,0.0,not much,no
+less than 40,Male,no,> 60 min,24.0,no,no,7,no,often,sometimes,normal,0.0,not much,no
+60 or older,Male,no,30-60 min,24.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,yes
+less than 40,Female,no,< 30 min,17.0,no,no,4,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,28.0,yes,yes,4,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,23.0,yes,no,6,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,no,no,6,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,19.0,no,no,7,yes,occasionally,sometimes,normal,1.0,not much,no
+60 or older,Male,no,< 30 min,15.0,no,no,4,yes,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,no,< 30 min,22.0,no,no,6,no,often,not at all,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,23.0,no,no,7,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,no,> 60 min,18.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,21.0,no,no,5,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,21.0,no,no,7,yes,often,very often,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,21.0,no,no,9,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,22.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,25.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,no,< 30 min,20.0,yes,yes,6,no,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,no,30-60 min,24.0,no,no,8,no,often,not at all,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Male,no,< 30 min,26.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,< 30 min,27.0,no,no,8,no,occasionally,sometimes,low,1.0,not much,no
+less than 40,Female,no,> 60 min,26.0,no,no,8,no,occasionally,sometimes,low,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,no,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Female,no,< 30 min,21.0,no,no,8,no,occasionally,not at all,normal,3.0,not much,yes
+40-49,Female,no,< 30 min,22.0,no,no,8,no,occasionally,not at all,normal,3.0,not much,no
+60 or older,Male,no,30-60 min,23.0,no,yes,7,yes,occasionally,very often,high,0.0,quite often,yes
+60 or older,Male,no,< 30 min,28.0,no,no,8,yes,occasionally,not at all,normal,0.0,quite often,yes
+60 or older,Male,yes,< 30 min,32.0,no,no,8,no,often,very often,high,0.0,not much,yes
+40-49,Female,yes,< 30 min,33.0,no,no,6,no,very often,very often,normal,2.0,not much,yes
+less than 40,Female,yes,> 60 min,24.0,no,no,8,no,often,sometimes,normal,0.0,not much,no
+50-59,Female,yes,< 30 min,28.0,no,no,7,yes,occasionally,very often,high,0.0,quite often,yes
+50-59,Male,no,< 30 min,30.0,no,no,7,no,often,very often,normal,0.0,not much,no
+50-59,Male,yes,> 60 min,30.0,yes,yes,7,yes,often,very often,high,0.0,quite often,yes
+less than 40,Female,yes,30-60 min,27.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,27.0,no,no,9,no,very often,very often,high,0.0,not much,no
+less than 40,Male,no,> 60 min,22.0,yes,no,9,no,very often,very often,high,0.0,quite often,no
+less than 40,Female,no,30-60 min,23.0,no,no,5,no,often,very often,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,18.0,no,no,7,yes,often,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,22.0,no,no,7,no,often,very often,normal,0.0,not much,no
+60 or older,Male,yes,30-60 min,21.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+60 or older,Female,no,> 60 min,26.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+50-59,Female,yes,none,28.0,no,no,6,yes,occasionally,very often,high,2.0,not much,yes
+less than 40,Male,no,30-60 min,26.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Female,no,< 30 min,31.0,no,no,7,yes,occasionally,very often,high,0.0,quite often,no
+50-59,Male,no,< 30 min,33.0,no,yes,5,yes,occasionally,sometimes,high,0.0,not much,no
+less than 40,Female,no,> 60 min,30.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,23.0,no,yes,6,no,often,very often,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,29.0,no,no,6,no,often,sometimes,normal,2.0,quite often,no
+40-49,Female,yes,30-60 min,17.0,no,no,7,no,very often,sometimes,normal,3.0,not much,no
+50-59,Female,yes,< 30 min,24.0,no,no,8,yes,occasionally,sometimes,normal,2.0,not much,no
+60 or older,Male,yes,30-60 min,26.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,quite often,yes
+less than 40,Female,yes,> 60 min,27.0,no,yes,8,no,very often,very often,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,21.0,no,no,6,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Female,yes,< 30 min,26.0,no,no,7,no,occasionally,very often,high,0.0,quite often,no
+less than 40,Male,yes,> 60 min,20.0,no,no,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,23.0,no,no,6,no,occasionally,sometimes,low,0.0,not much,no
+less than 40,Male,yes,30-60 min,21.0,yes,no,8,no,occasionally,very often,normal,0.0,not much,no
+less than 40,Female,yes,> 60 min,26.0,no,no,7,no,often,sometimes,low,0.0,not much,no
+less than 40,Female,yes,none,21.0,no,yes,9,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,none,21.0,no,yes,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,24.0,no,no,8,yes,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,24.0,yes,yes,7,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,26.0,no,yes,6,no,occasionally,very often,normal,0.0,not much,no
+50-59,Male,yes,< 30 min,32.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,34.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,30.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,30-60 min,45.0,no,no,7,yes,occasionally,very often,high,0.0,not much,yes
+less than 40,Male,yes,< 30 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,23.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Male,yes,30-60 min,27.0,no,yes,7,no,occasionally,sometimes,high,0.0,not much,no
+40-49,Female,no,> 60 min,25.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,no,< 30 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,no,< 30 min,33.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,no,< 30 min,33.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Female,no,30-60 min,28.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,28.0,no,no,6,no,occasionally,not at all,normal,0.0,quite often,no
+40-49,Female,yes,30-60 min,36.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,30-60 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,28.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Male,yes,30-60 min,28.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+40-49,Female,yes,< 30 min,38.0,no,no,7,no,occasionally,not at all,normal,0.0,quite often,no
+50-59,Female,no,30-60 min,33.0,no,no,6,yes,occasionally,sometimes,high,0.0,quite often,no
+40-49,Male,no,< 30 min,38.0,no,no,5,yes,occasionally,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,< 30 min,36.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,yes,< 30 min,33.0,no,no,6,no,occasionally,very often,normal,0.0,quite often,no
+less than 40,Female,no,30-60 min,33.0,no,no,7,no,often,not at all,normal,0.0,quite often,no
+40-49,Female,no,< 30 min,38.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,30-60 min,36.0,no,no,7,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,< 30 min,33.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+50-59,Male,no,< 30 min,38.0,no,no,6,yes,occasionally,sometimes,normal,0.0,quite often,no
+60 or older,Female,yes,< 30 min,38.0,no,no,5,yes,occasionally,very often,high,0.0,quite often,yes
+60 or older,Male,no,< 30 min,33.0,no,no,6,yes,occasionally,very often,high,0.0,quite often,yes
+less than 40,Female,no,< 30 min,33.0,no,no,8,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,yes,30-60 min,38.0,no,no,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,< 30 min,32.0,no,no,6,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,33.0,no,no,8,no,often,sometimes,normal,0.0,quite often,no
+40-49,Female,yes,none,22.0,no,no,10,yes,occasionally,very often,normal,2.0,not much,no
+40-49,Male,yes,none,25.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,yes
+60 or older,Female,yes,30-60 min,23.0,no,no,9,yes,occasionally,very often,high,3.0,quite often,yes
+60 or older,Female,yes,< 30 min,27.0,no,no,7,yes,occasionally,sometimes,high,3.0,quite often,yes
+60 or older,Male,yes,30-60 min,24.0,no,yes,7,yes,occasionally,very often,high,0.0,not much,yes
+less than 40,Female,yes,none,18.0,no,no,8,yes,often,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,none,20.0,no,no,9,no,often,sometimes,normal,0.0,not much,no
+less than 40,Female,no,30-60 min,19.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,> 60 min,28.0,yes,yes,7,no,often,not at all,normal,0.0,not much,yes
+less than 40,Female,no,< 30 min,19.0,no,no,8,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,no,30-60 min,25.0,yes,yes,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,25.0,no,yes,7,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,24.0,yes,yes,10,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,27.0,no,no,7,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,yes,30-60 min,19.0,yes,yes,7,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,none,25.0,yes,yes,10,no,often,very often,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,28.0,no,no,8,yes,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,> 60 min,25.0,no,no,5,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,30-60 min,24.0,no,no,6,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,< 30 min,21.0,no,no,8,no,often,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,23.0,no,no,9,no,often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,28.0,yes,yes,8,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,20.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,18.0,no,no,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,> 60 min,25.0,no,no,6,no,very often,very often,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,28.0,no,no,6,no,occasionally,not at all,high,0.0,quite often,no
+less than 40,Male,yes,< 30 min,27.0,yes,yes,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,< 30 min,20.0,no,no,8,no,very often,not at all,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,20.0,no,no,7,no,often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,> 60 min,17.0,no,no,8,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Male,no,< 30 min,29.0,no,no,6,no,very often,sometimes,normal,0.0,quite often,no
+less than 40,Male,no,30-60 min,21.0,no,no,7,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,< 30 min,29.0,no,no,8,no,often,sometimes,low,0.0,not much,no
+less than 40,Male,yes,30-60 min,29.0,no,yes,6,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Male,yes,30-60 min,24.0,yes,yes,8,no,occasionally,sometimes,high,0.0,not much,no
+less than 40,Male,yes,< 30 min,23.0,no,no,5,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,yes,< 30 min,23.0,no,no,5,no,occasionally,not at all,normal,0.0,not much,no
+less than 40,Female,yes,30-60 min,29.0,no,no,6,no,occasionally,sometimes,normal,0.0,quite often,no
+less than 40,Female,no,none,19.0,no,no,9,no,very often,sometimes,normal,2.0,not much,no
+less than 40,Male,no,< 30 min,23.0,yes,yes,8,no,very often,sometimes,normal,0.0,not much,no
+less than 40,Male,no,> 60 min,17.0,no,no,6,no,often,sometimes,normal,0.0,not much,no
+50-59,Female,yes,> 60 min,23.0,no,no,6,no,occasionally,sometimes,high,2.0,not much,no
+40-49,Male,yes,< 30 min,24.0,no,no,7,no,occasionally,sometimes,normal,0.0,not much,no
+less than 40,Female,yes,< 30 min,25.0,no,no,8,yes,occasionally,sometimes,normal,0.0,not much,no
+50-59,Female,yes,< 30 min,35.0,no,no,8,yes,often,very often,normal,2.0,quite often,yes
+40-49,Female,yes,30-60 min,33.0,no,no,7,yes,occasionally,sometimes,high,0.0,quite often,yes
+40-49,Female,yes,> 60 min,34.0,no,no,6,yes,very often,very often,normal,0.0,quite often,yes
+50-59,Male,yes,30-60 min,36.0,yes,no,6,yes,often,very often,high,0.0,not much,yes
+60 or older,Male,no,< 30 min,30.0,no,yes,6,yes,often,very often,high,0.0,not much,yes
+less than 40,Male,yes,> 60 min,28.0,yes,yes,5,yes,very often,very often,normal,0.0,quite often,yes
+40-49,Male,yes,< 30 min,35.0,yes,yes,5,yes,very often,sometimes,high,0.0,not much,yes
+40-49,Male,no,> 60 min,24.0,no,yes,6,no,occasionally,not at all,normal,0.0,not much,no
+50-59,Female,no,> 60 min,22.0,no,no,8,yes,occasionally,very often,normal,3.0,not much,yes
+less than 40,Male,no,< 30 min,30.0,no,yes,8,yes,occasionally,sometimes,normal,0.0,not much,yes
+40-49,Male,yes,> 60 min,22.0,no,no,7,yes,occasionally,sometimes,high,0.0,not much,yes
+less than 40,Male,yes,30-60 min,25.0,no,no,8,no,often,sometimes,normal,0.0,not much,yes
+60 or older,Male,yes,30-60 min,27.0,no,no,6,yes,occasionally,sometimes,high,0.0,quite often,yes
+60 or older,Male,no,none,23.0,no,no,6,yes,occasionally,sometimes,high,0.0,not much,no
+60 or older,Male,no,< 30 min,27.0,no,yes,6,yes,occasionally,very often,high,0.0,not much,no
+60 or older,Female,yes,> 60 min,30.0,no,no,7,yes,occasionally,sometimes,high,2.0,quite often,yes
