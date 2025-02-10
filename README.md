@@ -1,2 +1,2 @@
-# Web-app
-A Flask web application which predicts patients with diabetes
+# Diabetes-Detection-Application
+A Flask web application that can accurately predict patients with diabetes
